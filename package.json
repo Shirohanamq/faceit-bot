@@ -1,12 +1,12 @@
-{
-  "name": "teamexecbot",
+
+  "name": "ZTO Faceit",
   "version": "1.0.0",
   "description": "FACEIT stats bot",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nightshade",
+  "author": "hanashiro",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
